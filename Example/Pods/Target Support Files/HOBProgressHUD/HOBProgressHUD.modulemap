@@ -1,6 +1,0 @@
-framework module HOBProgressHUD {
-  umbrella header "HOBProgressHUD-umbrella.h"
-
-  export *
-  module * { export * }
-}
